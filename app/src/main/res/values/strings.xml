@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobigicTask</string>
+    <string name="lbl_create_grid">Create Grid</string>
+    <string name="lbl_reset">Reset</string>
+    <string name="lbl_rows">Rows</string>
+    <string name="lbl_columns">Columns</string>
+    <string name="lbl_enter_word_to_search">Enter word to search</string>
+    <string name="lbl_search">Search</string>
+</resources>
